@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://cdn.news.unn.net/news/photo/202101/503653_303981_349.jpg
+heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: I-ME studio
 # URL for the Image of the Author
-author-image: https://blogfiles.pstatic.net/20160518_177/ohminho_1463538254532XNWa1_JPEG/%C0%CE%C3%B5%B4%EB%C8%D6%C0%E5.jpg
+author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
 author-about: 안녕하세요:) 인천대학교 산업경영공학과 앱개발 팀 '<b>I-ME studio</b>' 입니다. <br> 
               2023년 1월 20일 부터 시작된 저희 모임은 김관호 교수님 외 5명으로 이루어져있으며 <br>
