@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: 'https://www.notion.so/438912f17d81489485c2ac4bf0392141?pvs=4#e91d53ead0974c92a8201bb278e8cbe2'
+post-image: '[https://www.notion.so/438912f17d81489485c2ac4bf0392141?pvs=4#e91d53ead0974c92a8201bb278e8cbe2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8063d533-2c34-4261-a5c7-b93d3b358a36/%EC%82%B0%EC%86%8C%ED%86%B5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230304%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230304T095403Z&X-Amz-Expires=86400&X-Amz-Signature=f547493d8984adb570367ca7518045e7d336ac71ab178db46a4160f347ad8d27&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25EC%2582%25B0%25EC%2586%258C%25ED%2586%25B5.jpg%22&x-id=GetObject)'
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
