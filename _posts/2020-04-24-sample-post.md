@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: ![image](/i-me_studio/assets/images/산소통.jpg)
+post-image: 'https://www.notion.so/438912f17d81489485c2ac4bf0392141?pvs=4#e91d53ead0974c92a8201bb278e8cbe2'
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
