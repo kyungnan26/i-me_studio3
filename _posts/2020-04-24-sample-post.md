@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: /i-me_studio/assets/images/산소통.jpg
+post-image: ![image](/i-me_studio/assets/images/산소통.jpg)
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
