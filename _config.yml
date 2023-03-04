@@ -45,9 +45,9 @@ author-name: I-ME studio
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: 인천대학교 산업경영공학과 앱개발 팀 'I-ME studio' 입니다. 
-              김관호 교수님 외 6명으로 이루어져있으며 현재 학교 공지 서비스를 개발 중에 있습니다. 
-              문의 사항은 contact를 참고해주시기 바랍니다.
+author-about: 인천대학교 산업경영공학과 앱개발 팀 'I-ME studio' 입니다. <br> 
+              김관호 교수님 외 6명으로 이루어져있으며 [기획/디자인팀-양서린, 조성훈] , [프론트엔드 개발팀-박정한] , [백엔드 개발팀-김경난, 박은서] 로 구성되었습니다. <br>
+              저희 팀은 현재 학교 공지 서비스를 개발 중에 있습니다.  문의 사항은 contact를 참고해주시기 바랍니다. 감사합니다:)
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
