@@ -1,24 +1,26 @@
+#이미지사이즈 960x640 (px)
+
 - name: 김관호
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://i.ibb.co/5np0KY5/image.jpg
   link:
   description: 
 - name: 김경난
   link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: https://i.ibb.co/5np0KY5/image.jpg
   description: 
 - name: 박은서
   link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  image: https://i.ibb.co/5np0KY5/image.jpg
   description: 
 - name: 박정한
   link:
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  image: https://i.ibb.co/5np0KY5/image.jpg
   description: 
 - name: 양서린
   link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  image: https://i.ibb.co/5np0KY5/image.jpg
   description: 
 - name: 조성훈
   link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  image: https://i.ibb.co/5np0KY5/image.jpg
   description: 
