@@ -2,25 +2,25 @@
 
 - name: 김관호
   image: https://i.ibb.co/5np0KY5/image.jpg
-  link: /i-me_studio/Members_card/1.md
+  #link: 
   description: 지도 교수
 - name: 김경난
-  link:
+  #link:
   image: https://i.ibb.co/5np0KY5/image.jpg
   description: 백엔드 개발팀
 - name: 박은서
-  link:
+  #link:
   image: https://i.ibb.co/5np0KY5/image.jpg
   description: 백엔드 개발팀
 - name: 박정한
-  link:
+  #link:
   image: https://i.ibb.co/5np0KY5/image.jpg
   description: 프론트엔드 개발팀
 - name: 양서린
-  link:
+  #link:
   image: https://i.ibb.co/5np0KY5/image.jpg
   description: 기획/디자인팀
 - name: 조성훈
-  link:
+  #link:
   image: https://i.ibb.co/5np0KY5/image.jpg
   description: 기획/디자인팀
