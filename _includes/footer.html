@@ -27,8 +27,7 @@
 
             <!--Link Section-->
             <div class="column has-text-white">
-                <h3>About Us</h3>
-                <br>
+                <h3>About Us</h3>       
                 <ul>
                     <li>
                         <a href="https://github.com/inuteam1">Github: https://github.com/inuteam1</a>
@@ -42,7 +41,7 @@
             <!--Blog-post Section-->
             <div class="column has-text-white">
                 <h3>Recent Posts</h3>
-                <br>
+
                 {% for post in site.posts offset: 0 limit:3 %}
                 <li>
                     <a href="{{post.url | absolute_url}}">{{post.title}}</a>
