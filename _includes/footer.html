@@ -27,22 +27,22 @@
 
             <!--Link Section-->
             <div class="column has-text-white">
-                <h3>About us</h3>
-                {% for sitepage in site.html_pages offset: 4 %}
-                {% unless sitepage.url == '/'  limit: 2 %}
-                <li>
-                    <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
-                </li>
-                {% endunless %}
-                {% endfor %}
-                <li>
-                    <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
-                </li>
+                <h3>About Us</h3>
+                <br>
+                <ul>
+                    <li>
+                        <a href="https://github.com/inuteam1">깃허브 주소: https://github.com/inuteam1</a>
+                    </li>
+                    <li>
+                        <a href="mailto:example@example.com">이메일: example@example.com</a>
+                    </li>                    
+                </ul>
             </div>
 
             <!--Blog-post Section-->
             <div class="column has-text-white">
                 <h3>Recent Posts</h3>
+                <br>
                 {% for post in site.posts offset: 0 limit:3 %}
                 <li>
                     <a href="{{post.url | absolute_url}}">{{post.title}}</a>
