@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Test page
 layout: page
 ---
 
