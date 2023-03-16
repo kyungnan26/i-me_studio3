@@ -5,10 +5,24 @@
     <div class="navbar-dropdown has-background-black is-left">
         {% for sitepage in site.html_pages %}
         {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/blog' %}
+        
+        
+        
+        <!-- 이거를
         <a href="{{sitepage.url | absolute_url}}"
             class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url  %}is-active{% endif %}">
             {{sitepage.title}}
-        </a>
+        </a> -->
+        
+        <!-- 아래처럼 바꿨습니다 -->
+        
+        <a href="/i-me_studio/project" class="navbar-item has-text-grey-light "> Members </a>
+        <a href="/i-me_studio/New-page_1" class="navbar-item has-text-grey-light "> Blog </a>
+        <a href="/i-me_studio/test-page" class="navbar-item has-text-grey-light "> Test page </a>
+        
+        
+        
+        
         {% endunless %}
         {% endfor %}
         <!-- <hr class="navbar-divider">
