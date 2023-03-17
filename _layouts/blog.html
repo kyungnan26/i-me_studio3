@@ -18,9 +18,14 @@ layout: compress
         </div>
         <div id="results-container"></div>
         <!--Blog Cards Section-->
-        {% for post in site.posts %}
-            {% include blog-card.html %}
-        {% endfor %}
+            <div id="category-project">
+            <!--Category A Blog Cards Section-->
+                {% for post in site.posts %}
+                    {% if post.categories contains 'project' %}
+                        {% include blog-card.html %}
+                    {% endif %}
+                {% endfor %}
+            </div>
         </div>
     </section>
     <br>
