@@ -2,7 +2,10 @@
 layout: compress
 ---
 [
-  
+{% assign category = page.category | default: site.categories | default: nil %}
+{% assign posts = site.posts %}
+{% if category %}
+  {% assign posts = posts | where: "categories", category %}
     {% for post in site.posts %}
       {
         "title"    : "{{ post.title | escape }}",
